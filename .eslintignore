@@ -1,0 +1,15 @@
+/*.js
+/*.json
+/**/*.d.ts
+
+node_modules
+
+.next
+
+build
+
+tsconfig.json
+
+jest.config.ts
+
+package.json
