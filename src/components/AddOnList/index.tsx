@@ -1,4 +1,4 @@
-import { useCrossWindowStateContext } from '@contexts/useCrossWindowStateContext';
+import { useCrossWindowStateContext } from '../../contexts/useCrossWindowStateContext';
 import { useRef } from 'react';
 
 export function AddOnList() {

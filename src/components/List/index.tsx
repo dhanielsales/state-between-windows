@@ -1,4 +1,4 @@
-import { useCrossWindowStateContext } from '@contexts/useCrossWindowStateContext';
+import { useCrossWindowStateContext } from '../../contexts/useCrossWindowStateContext';
 
 export function List() {
   const { value, setValue } = useCrossWindowStateContext();

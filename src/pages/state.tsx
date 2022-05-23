@@ -1,4 +1,4 @@
-import { useCrossWindowState } from '@hooks/useCrossWindowState';
+import { useCrossWindowState } from '../hooks/useCrossWindowState';
 import { useRef } from 'react';
 import { Link } from 'react-router-dom';
 

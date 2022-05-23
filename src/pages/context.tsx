@@ -1,6 +1,6 @@
-import { AddOnList } from '@components/AddOnList';
-import { List } from '@components/List';
-import { CrossWindowStateProvider } from '@contexts/useCrossWindowStateContext';
+import { AddOnList } from '../components/AddOnList';
+import { List } from '../components/List';
+import { CrossWindowStateProvider } from '../contexts/useCrossWindowStateContext';
 import { Link } from 'react-router-dom';
 
 export function Context() {

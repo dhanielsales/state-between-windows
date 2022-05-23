@@ -1,4 +1,4 @@
-import { useCrossWindowState } from '@hooks/useCrossWindowState';
+import { useCrossWindowState } from '../hooks/useCrossWindowState';
 import { createContext, useContext } from 'react';
 
 export type State = {
